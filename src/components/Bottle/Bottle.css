@@ -1,0 +1,11 @@
+
+.box{
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+img{
+    width: 300px;
+}
